@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../oktal"
+		},
+		{
+			"path": "../../biner"
+		},
+		{
+			"path": "../../bmi"
+		},
+		{
+			"path": "../../heksadesimal"
+		},
+		{
+			"path": "../../desimal"
+		},
+		{
+			"path": "../../cicilan-bank"
+		},
+		{
+			"path": "../../harga"
+		}
+	],
+	"settings": {}
+}
